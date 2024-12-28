@@ -79,8 +79,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 1. Sign up for Uploadthing at [Uploadthing](https://uploadthing.com/).
 2. Obtain your API key and configure it in `.env.local`:
 
-   ```env
-   NEXT_PUBLIC_UPLOADTHING_API_KEY=your-uploadthing-api-key
+   ```.env.local
+   UPLOADTHING_API_KEY=your-uploadthing-api-key
    ```
 
 ### ShadCN UI
